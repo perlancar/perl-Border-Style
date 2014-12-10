@@ -5,7 +5,7 @@ package Border::Style::Role;
 
 # currently this is still very Text::ANSITable-ish.
 
-use 5.010;
+use 5.010001;
 use Moo::Role;
 
 with 'Term::App::Role::Attrs';
