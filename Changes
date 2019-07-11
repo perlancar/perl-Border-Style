@@ -1,4 +1,4 @@
-0.01    2014-12-10 (PERLANCAR)
+0.01    2014-12-10  Released-By: PERLANCAR
 
         - First release, split from SHARYANTO-Roles and renamed role module from
           SHARYANTO::Role::BorderStyle to Border::Style::Role.
